@@ -1,4 +1,4 @@
-# Customer-Segmentation-Project
+# Customer Segmentation Project
 
 Unsupervised Learning is a machine learning field that has been subject of many papers and projects. It deals with algorithms that learn from data without the need of labels. One interesting UL application in business is Customer Segmentation, which allows decision makers to understand more their brand’s customers and how to apply this knowledge in a data-driven way. 
 
